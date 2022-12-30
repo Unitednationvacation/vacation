@@ -1,0 +1,156 @@
+.firstimage{
+    text-align: center;
+    margin-bottom: 17px;
+}
+.firstimaglag{
+    width: 50%;
+}
+.imagedivfor11{
+    margin-bottom: 0px;
+}
+.imagetest{
+    margin-top: 0px;
+    font-family: 'Playfair Display', serif;
+}
+.imagetest strong{
+    color: #0076bf;
+
+}
+.vactionfirsttext{
+    text-align: center;
+    color: #0076bf;
+    margin-bottom: 0px;
+    font-family: 'Playfair Display', serif;
+
+}
+.seounfdivfortext{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+.vactiontext{
+    width: 86%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+
+    
+}
+.vactiontext strong{
+    color: #0076bf;
+    font-weight: bold;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+
+
+  /* Add a background color and some padding around the form */
+.formfordiv {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  input[type=submit], input[type=Reset] {
+    background-color: #0076bf;
+    color: white;
+    padding: 15px 31px;
+    font-size: large;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+   transition: 0.7s;
+  }
+
+  /* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #3ca8eb;
+  }
+
+  input[type=Reset]:hover {
+    background-color: #3ca8eb;
+  }
+
+  
+  .textforpl{
+    text-align: center;
+    color:#0076bf;
+    font-weight: bold;
+  }
+
+  label{
+    color:#0076bf;
+margin-left: 10px;
+  }
+
+  .firstdivform{
+    margin-bottom: 19px;
+  }
+  .firstdivform2{
+    text-align: center;
+    margin-bottom: 23px;
+    font-weight: bold;
+  }
+    /* Aend of the form */
+.labletex{
+    color:#0076bf;
+    text-align: center;
+}
+
+.imageables{
+    width: 50%;
+    margin-bottom: 0px;
+}
+.imagelable{
+    text-align: center;
+}
+.labelp{
+    margin-top: 0px;
+    color:#0076bf;
+
+}
+.fillp1{
+    color:#0076bf;
+
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 18px;
+}
+body{
+    font-family: 'Unbounded', cursive;
+}
+.firsttextlist{
+    color:#0076bf;
+
+}
+.missionlist h3{
+    color:#0076bf;
+}
+
+.missionlist, .firstlistdiv{
+    border-bottom: 2px solid black;
+}
+.imageables{
+    border: 2px solid #0076bf;
+}
+.lablediv{
+    font-family: 'Playfair Display', serif;
+
+}
